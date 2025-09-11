@@ -1,6 +1,11 @@
 SERVERALERT:
 <html>
     <body>
-Welcome to Frostmourne PTR.
+      
+        <p>
+            Welcome to Stormforge. <br />
+            Frostmourne PTR is online.
+        </p>
+      
     </body>
 </html>
